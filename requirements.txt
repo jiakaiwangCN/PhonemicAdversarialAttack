@@ -1,0 +1,11 @@
+ctcdecode==1.0.2
+editdistance==0.6.0
+g2p_en==2.1.0
+librosa==0.9.1
+matplotlib==3.3.4
+numpy==1.19.2
+omegaconf==2.2.2
+six==1.16.0
+torch==1.10.2
+torchaudio==0.10.2
+tqdm==4.64.0
